@@ -46,12 +46,3 @@ I aim to work in high-impact environments as a **Big Data Engineer** and **Cloud
 - 📧 Email: a.tiwari@saiavenue.com
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BronteBlaze&show_icons=true&theme=github_dark" alt="Ajay's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BronteBlaze&layout=compact&theme=github_dark" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BronteBlaze&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
