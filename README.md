@@ -17,18 +17,21 @@ Currently, I’m sharpening my skills to transition into **Big Data Engineering*
 `JavaScript` `TypeScript` `Java` `C++` `Python`
 
 #### 🌐 Frontend:
-`React.js` `Next.js` `Tailwind CSS`
+`React.js` `Next.js` `Tailwind CSS` `Styled Component` `Ant Design` `Storybook`
+`Material Design` `Bootstrap` `ShadeCN Component` `Redux Toolkit` `Tanstack Query`
+`Apollo Client`
 
 #### ⚙️ Backend:
-`Node.js` `NestJS` `GraphQL` `REST API`
+`NodeJS` `ExpressJS` `NestJS` `Django` `Laravel` `FastAPI` `GraphQL` `REST API` `Apollo Server` `Firebase`
 
 #### 🛢️ Databases:
-`PostgreSQL` `MySQL` `MongoDB`  
-ORMs: `TypeORM` `Prisma`
+`PostgreSQL` `MySQL` `MongoDB` `Managed Database and AWS RDS`
+ORMs: `TypeORM` `Prisma` `Mongoose` `Sequelize`
 
 #### ☁️ DevOps & Cloud:
-`Docker` `Docker Compose` `AWS (EC2, S3, RDS)` `Digital Ocean (Droplets, Spaces)`  
+`Docker` `Docker Compose` `AWS (EC2, S3, RDS, EBS, IAM)` `Digital Ocean (Droplets, Spaces)`  
 `Kubernetes` `Terraform` `CI/CD (GitHub Actions, Jenkins)`  
+`Cloudflare CDN` `Nginx` `RabbitMQ` `MemCached Server` `Redis` `Celery Worker`
 `Serverless` `Linux` `Load Balancing` `Cloud Computing`
 
 ---
