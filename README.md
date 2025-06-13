@@ -44,7 +44,6 @@ I aim to work in high-impact environments as a **Big Data Engineer** and **Cloud
 
 ### 📫 Connect With Me
 
-- 🌐 [Portfolio Website](https://ajay-tiwari.com.np)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ajay-tiwari-323298276/)
 - 📧 Email: a.tiwari@saiavenue.com
 
